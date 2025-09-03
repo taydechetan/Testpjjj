@@ -18,3 +18,6 @@ function myfun(){
 }
 
 myfun();
+
+
+console.log("hello world")
